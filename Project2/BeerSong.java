@@ -5,8 +5,7 @@ public class BeerSong {
 		
 		new BeerSong().Ninety_Nine_Bottles_of_Beer();
 		
-	}	
-		
+	}			
 	public void Ninety_Nine_Bottles_of_Beer() {
 		
 		int Beer = 99;
