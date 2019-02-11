@@ -8,11 +8,12 @@ public class BeerSong {
 
 		int Beer = 99;
 		
-		while (Beer >0);
+		while (Beer >0) {
 		
 		System.out.println(Beer + " bottles of beer on the wall, " + Beer + " bottles of beer");
         Beer = Beer - 1;
-		System.out.println(" Take one down, pass it around, " + Beer + "bottles of beer on the wall");
+		System.out.println(" Take one down, pass it around, " + Beer + " bottles of beer on the wall");
+		}
 	}
 
 }
